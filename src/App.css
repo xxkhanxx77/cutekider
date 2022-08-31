@@ -3,6 +3,11 @@
   height: 100vh;
   margin: 0 auto;
   text-align: center;
+  font-family: 'americana-std';
+}
+@font-face {
+  font-family: 'americana-std';
+  src: local('americana-std'),url('./assets//fonts/americana-std.ttf') format('truetype');
 }
 
 .logo {
